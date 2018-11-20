@@ -3,12 +3,11 @@ IMAP email testing library for Robot Framework
 
 |Docs| |Version| |Status| |Python| |Download| |License|
 
+**NOTE: THIS FORK CONTAINS THE FOLLOWING CHANGES (UNMERGED AS OF 11/20/2018): https://github.com/rickypc/robotframework-imaplibrary/pull/9. IF THOSE OR SIMILAR CHANGES GET MERGED, WE CAN POINT TO THE ORIGINAL `rickypc` REPO AND KILL THIS FORK.**
 
 
 Introduction
 ------------
-
-**NOTE: THIS FORK CONTAINS THE FOLLOWING CHANGES (UNMERGED AS OF 11/20/2018): https://github.com/rickypc/robotframework-imaplibrary/pull/9. IF THOSE OR SIMILAR CHANGES GET MERGED, WE CAN POINT TO THE ORIGINAL `rickypc` REPO AND KILL THIS FORK.**
 
 ImapLibrary is a IMAP email testing library for `Robot Framework`_.
 
